@@ -1,0 +1,2 @@
+echo "*.service" > .gitignore
+echo "__pycache__/" >> .gitignore
